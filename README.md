@@ -26,6 +26,7 @@ I'm a newbie in the coding scene, passionate about learning and growing my skill
 
 - [Project 1](https://github.com/anishrajmehta/news-article): [An article will be created from trending topics]
 - [Project 2](https://github.com/anishrajmehta/Flip-a-coin): [A basic app for tossing a coin.]
+- [Project 3](https://github.com/anishrajmehta/caendar-snap): [An OCR based Calendar Event genrator]
 
 ## Contact Me
 
