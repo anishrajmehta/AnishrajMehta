@@ -19,8 +19,8 @@ I'm a newbie in the coding scene, passionate about learning and growing my skill
 
 ## Skills
 
-- Programming languages: Python, Swift, C++
-- Tools: VS Code, Google Colab, LaTeX
+- Programming languages: Python
+- Tools: VS Code, Google Colab, Google Cloud Platform, LaTeX
 
 ## Projects
 
@@ -31,7 +31,7 @@ I'm a newbie in the coding scene, passionate about learning and growing my skill
 ## Contact Me
 
 - [Email](mailto:anishrajmehta@icloud.com)
-- [LinkedIn](https://www.linkedin.com/in/anishraj-mehta-b23a74161)
+- [LinkedIn](https://www.linkedin.com/in/anishraj-mehta)
 - [Twitter](https://twitter.com/AnishrajMehta)
 
 Let's connect and build awesome things together! 🚀
