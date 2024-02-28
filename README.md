@@ -19,7 +19,7 @@ I'm a newbie in the coding scene, passionate about learning and growing my skill
 
 ## Skills
 
-- Programming languages: Python
+- Programming languages: C++, Python, R
 - Tools: VS Code, Google Colab, Google Cloud Platform, LaTeX
 
 ## Projects
